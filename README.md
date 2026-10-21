@@ -40,21 +40,13 @@ A forecasting project to help humanitarian planners anticipate refugee populatio
 ##  Tech Stack
 
 **Languages & Core Tools**
-![Python]
-![SQL]
-![Jupyter]
-![Git]
+Python,SQL,Jupyter,Git
 
 **Data & Machine Learning**
-![Pandas]
-![NumPy]
-![scikit-learn]
-![PyTorch]
+Pandas,NumPy,scikit-learn,PyTorch
 
 **Visualization & Reporting**
-![Tableau]
-![Power BI]
-![Excel]
+Tableau,Power BI,Excel
 
 **Also:** Matplotlib · Seaborn · Google Sheets · MATLAB/Simulink 
 
