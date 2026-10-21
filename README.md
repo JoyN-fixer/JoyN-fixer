@@ -1,6 +1,6 @@
 # Hi, I'm Joy Njeru 
 
-**Data Scientist | Engineer 
+Data Scientist | Engineer 
 
 I turn messy, real-world data into clear, actionable insight. I bring an engineer's rigor to data work: validating assumptions, catching inconsistencies early, and building models that are tested against a baseline.
 
@@ -24,7 +24,7 @@ A forecasting project to help humanitarian planners anticipate refugee populatio
 - Ran exploratory analysis to surface demographic and temporal patterns, then turned the findings into **resource-planning recommendations**.
 - Built a **Linear Regression baseline** and benchmarked it against a **custom Transformer model in PyTorch**, evaluated with **MAE, RMSE, and R²**.
 
-🔗 *[Add link to the project repository here]*
+🔗 *(https://github.com/cynthiakemboi/Machine-learning-Model-on-Refugee-Population-Forecasting-Resource-Planning-System-for-Kenya)*
 
 ---
 
