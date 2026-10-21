@@ -9,7 +9,6 @@ I turn messy, real-world data into clear, actionable insight. I bring an enginee
 - I work across the full data workflow: cleaning and structuring datasets, exploratory analysis, modelling, dashboards, and reporting.
 - I've worked across Kenya and Germany in automotive, aviation, manufacturing, and logistics, mostly in roles where data accuracy mattered day to day.
 - I completed Stanford's **Machine Learning Specialization** (DeepLearning.AI, Prof. Andrew Ng) and the **Moringa School Data Science Bootcamp**.
-- I'm a Graduate Engineer Member of the **Engineers Board of Kenya (EBK)**.
 - I speak English (native), German (professional), and French (conversational).
 - I enjoy travel and cross-cultural work, and I pick up new tools quickly.
 
@@ -41,21 +40,21 @@ A forecasting project to help humanitarian planners anticipate refugee populatio
 ##  Tech Stack
 
 **Languages & Core Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python]
+![SQL]
+![Jupyter]
+![Git]
 
 **Data & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas]
+![NumPy]
+![scikit-learn]
+![PyTorch]
 
 **Visualization & Reporting**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau]
+![Power BI]
+![Excel]
 
 **Also:** Matplotlib · Seaborn · Google Sheets · MATLAB/Simulink 
 
